@@ -23,7 +23,7 @@ url_pass = "SN1747"
 t = 60
 
 tentativas_maximas = 5
-tentativa_atual = 0
+tentativa_atual = 00
 
 while tentativa_atual < tentativas_maximas:
     try:
